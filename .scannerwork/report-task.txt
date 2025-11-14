@@ -1,0 +1,6 @@
+projectKey=crud_appWeb
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=crud_appWeb
+ceTaskId=5754f4ce-ae36-49c5-aa5c-7bc344605465
+ceTaskUrl=http://localhost:9000/api/ce/task?id=5754f4ce-ae36-49c5-aa5c-7bc344605465
